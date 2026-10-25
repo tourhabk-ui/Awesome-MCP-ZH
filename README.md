@@ -1126,6 +1126,7 @@ MCP 客户端是 AI 的“操作台”，以下是几个热门选择：
 | [webcoderz/MCP-Geo](https://github.com/webcoderz/MCP-Geo)                        | 用于 nominatim, ArcGIS, Bing 的地理编码 MCP 服务器。                                         | 社区实现, Python 开发 🐍, 本地运行 🏠, 地理编码服务。                                           |
 | [ip2location/mcp-ip2location-io](https://github.com/ip2location/mcp-ip2location-io) | 使用 IP2Location.io API 获取 IP 地址地理位置和网络信息。                                                 | 官方参考, Python 开发 🐍, 云服务 ☁️, IP 地址信息 (IP2Location.io)。                                   |
 | [Joooook/12306-mcp](https://github.com/Joooook/12306-mcp) | 基于 MCP 的 12306 火车票查询服务器，支持车次、余票、经停站等信息查询。 | 社区实现, TypeScript 开发 📇, 本地运行 🏠, 中国铁路 12306 购票信息。 |
+| [Vedar 堪察加](https://github.com/tourhabk-ui/vedar-mcp) | 俄罗斯堪察加半岛旅行数据的远程 MCP 服务器，22 个工具：旅游线路与价格目录、火山与安全提示、天气、行程规划。附中文说明 README_zh。 | 官方实现 (Vedar), 云服务 ☁️, 远程 MCP: `https://vedarai.ru/api/mcp`, 无需鉴权。 |
 | [滴滴出行 MCP](https://mcp.didichuxing.com/) | 滴滴官方远程 MCP：打车场景的价格预估、下单、行程状态查询与取消，并提供地图能力。 | 官方实现 (滴滴) 🎖️, 远程端点 ☁️ `https://mcp.didichuxing.com/mcp-servers?key=<KEY>`, 另有 sandbox 环境可先联调。 |
 | [double2dev/boltpatternhq-mcp](https://github.com/double2dev/boltpatternhq-mcp) | 为 AI 编程助手提供实时的汽车轮毂改装、PCD 孔距、偏距和螺栓尺寸硬件数据查询（覆盖全球超 1.1 万款车型）。 | 社区实现, TypeScript 开发 📇, 本地运行 🏠, 汽车工业与车辆数据。 |
 | [12306-train-mcp](https://github.com/boy-373/12306-train-mcp) | 中国铁路 12306 火车票查询：中文车站名查询车次、余票、时刻表（只读）。 | 社区实现, Python 开发 🐍, 免费云端 ☁️ 远程 `https://mcp.pianam.cn/train-mcp/mcp`，无需 API Key，MIT。 |
